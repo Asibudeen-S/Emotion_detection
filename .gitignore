@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+coverage/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.so
+*.dylib
+*.dll
